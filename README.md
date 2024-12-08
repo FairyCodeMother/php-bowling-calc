@@ -4,10 +4,13 @@
 
 &nbsp;
 
+### To run:
 ```
-with stuff
+php -S localhost:8000 
 ```
 &nbsp;
+
+## Stuff
 
 ### And
 &nbsp;
